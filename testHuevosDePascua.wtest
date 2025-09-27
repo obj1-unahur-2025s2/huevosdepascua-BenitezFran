@@ -3,7 +3,7 @@ import huevosDePascua.*
 describe "group of tests" {
 
   test "test 1" {
-    assert.equals(50+50, 100)
+    assert.equals(matrioshka, caceria.noEnco)
   }
   test "test 2" {
     assert.that(true)
